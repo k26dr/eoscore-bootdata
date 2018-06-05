@@ -5,7 +5,8 @@ Branch: launch-rc
 
 1. Copy `genesis.json` and `config.ini` into a new directory and `cd` into it
 2. Modify `config.ini` as specified in the file
-3.   
+3. Make sure your firewall is configured to allow connections on any exposed ports (9876 and 8888 by default)
+4.  
 
 If resyncing from a previous bad chain or syncing a fresh chain
 
