@@ -2,7 +2,7 @@
 
 1. Copy `genesis.json` and `config.ini` into a new directory and `cd` into it
 2. Modify `config.ini` as specified in the file
-3. Run nodeos:
+3.   
 
 If resyncing from a previous bad chain or syncing a fresh chain
 
