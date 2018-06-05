@@ -1,6 +1,6 @@
 # EOS CORE Bootdata
 
-EOS Github repo: [EOS Mainnet](https://github.com/EOS-Mainnet/eos)
+EOS Github repo: [EOS Mainnet](https://github.com/EOS-Mainnet/eos)  
 Branch: launch-rc
 
 1. Copy `genesis.json` and `config.ini` into a new directory and `cd` into it
